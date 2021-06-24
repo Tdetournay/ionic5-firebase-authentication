@@ -5,10 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyB_hifCjvJb7jf3hnZozfzlnJQ6N0iYuXI",
-    authDomain: "ionic5-firebase-authentication.firebaseapp.com",
-    databaseURL: "https://ionic5-firebase-authentication.firebaseio.com",
-    projectId: "ionic5-firebase-authentication",
+    apiKey: "AIzaSyB60X4lgHrzGLldHpV75bPhxVX6TcFEj-U",
+    authDomain: "tinyandprettylog.firebaseapp.com",
+    projectId: "tinyandprettylog",
+    storageBucket: "tinyandprettylog.appspot.com",
+    messagingSenderId: "570190752735",
+    appId: "1:570190752735:web:af4d4c29ba34fc8c9d326a",
+    measurementId: "G-JZ7H36PCVZ"
   }
 };
 
