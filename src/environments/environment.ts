@@ -5,13 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyB60X4lgHrzGLldHpV75bPhxVX6TcFEj-U",
-    authDomain: "tinyandprettylog.firebaseapp.com",
-    projectId: "tinyandprettylog",
-    storageBucket: "tinyandprettylog.appspot.com",
-    messagingSenderId: "570190752735",
-    appId: "1:570190752735:web:af4d4c29ba34fc8c9d326a",
-    measurementId: "G-JZ7H36PCVZ"
+    apiKey: 'AIzaSyC84m0RiPLoP7zKN1_Np4JJCBhcxKygygA',
+    authDomain: 'tiny-and-pretty-4f9c5.firebaseapp.com',
+    databaseURL: 'https://tiny-and-pretty-4f9c5-default-rtdb.europe-west1.firebasedatabase.app',
+    projectId: 'tiny-and-pretty-4f9c5',
+    storageBucket: 'tiny-and-pretty-4f9c5.appspot.com',
+    messagingSenderId: '924866184921',
+    appId: '1:924866184921:web:291b4297b2467de7bda0c8',
+    measurementId: 'G-5MJX4KBV74'
   }
 };
 
